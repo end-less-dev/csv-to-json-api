@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Usage
 
-To convert a CSV file to JSON, make a POST request to the `/convert` endpoint with the CSV file attached in form data under the key "file".
+To convert a CSV file to JSON, make a POST request to the `/api/upload` endpoint with the CSV file attached in form data under the key "file".
 
 ## Contributing
 
