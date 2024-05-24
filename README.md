@@ -26,6 +26,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 To convert a CSV file to JSON, make a POST request to the `/api/upload` endpoint with the CSV file attached in form data under the key "file".
 
+### api
+https://autumneater-cloak.toystack.dev/api/upload
+
 ## Contributing
 
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
